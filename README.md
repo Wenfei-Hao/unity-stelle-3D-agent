@@ -5,6 +5,32 @@ The character responds with LLM-generated text, expressive facial animation, and
 
 ---
 
+## 🎥 Demo
+
+- **Video walkthrough (60–120s):** <https://drive.google.com/file/d/1psXknjqmtfG1MWxEh5Jh3rZ4__Q5RABS/view?usp=share_link>
+
+**1) Chat input → Send**
+- Type in the dialogue box and click **Send** to talk to the agent.
+  
+![Chat input and send](README-assets/demo_01_send.png)
+
+**2) Agent reply (text + voice + emotion + lip-sync)**
+- The agent’s reply is rendered in the top-left bubble, with **neural TTS**, **facial expression**, and **lip-sync**.
+  
+![Agent reply with TTS, emotion, and lip-sync](README-assets/demo_02_reply_tts.png)
+
+**3) Conversation history & audio replay**
+- Open **See History** to browse past turns and click **Play** to replay the stored voice line.
+  
+![History panel with audio replay](README-assets/demo_03_history_replay.png)
+
+**4) Gaze interaction**
+- The avatar supports **mouse/camera gaze tracking** for a more “alive” presence.
+  
+![Gaze follow / look-at](README-assets/demo_04_gaze_follow.png)
+
+---
+
 ## ⭐ Key Features
 
 - **3D virtual avatar with gaze & emotions**
